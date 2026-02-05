@@ -37,6 +37,9 @@ index.php         # main entry, handles form submission
 src/
   Calculator.php  # math evaluation
   History.php     # sqlite storage
+  BasicCalculator.png  # Basic Calculator Screenshot
+  ScientificCalculator.png    # Scientific Calculator Screenshot
+  
 assets/
   main.css
   app.js
